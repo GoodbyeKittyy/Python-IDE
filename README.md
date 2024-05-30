@@ -4,7 +4,7 @@ A coding editor initially build for Python language to #RUN #DOWNLOAD CODE #EDIT
 
 </br>
 
-The vision of this IDE is to calcualte the TIME COMPLEXITY , SPACE COMPLEXITY, SIZE OF FILE, TIME TAKEN by program/code.
+The vision of this IDE is to calculate the TIME COMPLEXITY , SPACE COMPLEXITY, SIZE OF FILE, TIME TAKEN by program/code.
 
 </br>
 
